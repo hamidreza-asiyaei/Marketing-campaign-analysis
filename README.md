@@ -27,7 +27,7 @@ Analysis of digital marketing campaign performance across 8,000 customers using 
 - `marketing_campaign_dashboard.pdf` — Dashboard export
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ## 👤 Author
 [Hamidreza Asiyaeimoghadam](https://www.linkedin.com/in/hamidreza-asiyaeimoghadam-883316169)
